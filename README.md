@@ -1,2 +1,3 @@
-# langchain
-Local library to work with LangChain APIs
+# LangChain for LLM Application Development
+
+Handy repo for LangChain APIs and applications
