@@ -1,5 +1,5 @@
 from langchain.chat_models import ChatOpenAI
-from lanfchain.prompts import ChatPromptTemplate, PromptTemplate
+from langchain.prompts import ChatPromptTemplate, PromptTemplate
 from langchain.chains import LLMChain, SimpleSequencialChain, SequencialChain
 from langchain.chains.router import MultiPromptChain
 from langchain.chains.router.llm_router import LLMRouterChain, RouterOutputParser
